@@ -1,10 +1,8 @@
 # Indizr Weekly (Deprecated)
 
-This is a collection of the HTML for Indizr Weekly, a free email newsletter about digital news innovation that ran from July 2017 to May 2018.
+This is an archive of HTML for the initial run of Indizr Weekly, a free email newsletter about digital news innovation that ran from July 2017 to May 2018. 
 
-The newsletter is now deprecated, so this repo is effectively a complete archive.
-
-As a successor project, the newsletter's publisher has begun sending e-mail updates on a more occasional basis, with a focus on internet decentralization. You can subscribe to those updates if you're interested at https://indizr.com/newsletter
+After a hiatus, the newsletter was revived in October 2019 with a broader focus on Web 3.0. To subscribe to this current edition, visit https://indizr.com/newsletter
 
 All content here is free to use and share with appropriate attribution under Creative Commons 4.0 license. For full text of the license, see https://creativecommons.org/licenses/by/4.0/legalcode
 
